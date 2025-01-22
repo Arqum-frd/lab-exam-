@@ -60,5 +60,6 @@ public class task1 {
 
         // Final account balance
         System.out.println("Final account balance: " + account.balance);
+        system.out.println("aoa");
     }
 }
