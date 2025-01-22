@@ -2,6 +2,7 @@ package lab6;
 
 class BankAccount {
     int balance;
+    //soert
 
     // Constructor to initialize the bank account with a balance
     public BankAccount(int balance) {
